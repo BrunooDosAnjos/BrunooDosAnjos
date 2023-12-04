@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Bruno dos Anjos</h1>
 <h3 align="center">Desenvolvedor FullStack  .Net</h3>
 
-- 🔭 Atualmente, faço parte da [MetaX](https://metax.ind.br/).
+- 🔭 Atualmente, faço parte da [Meta.X](https://metax.ind.br/).
 
 - 📄 Trabalhando diariamente com **.Net Core, .Net Framework, ASP.NET, Java, React, Angular, entre outros.**
 
